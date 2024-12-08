@@ -124,7 +124,7 @@ export const tokens = (mode) => ({
 export const themeSettings = (mode) => {
   const colors = tokens(mode);
   return {
-    pallete: {
+    palette: {
       mode: mode,
       ...(mode === "dark"
         ? {
@@ -207,3 +207,4 @@ export const useMode = () => {
   const theme = useMemo(() => createTheme(themeSettings(mode)), [mode]);
   return [theme, colorMode];
 };
+export default useMode;
