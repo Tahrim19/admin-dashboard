@@ -1,3 +1,4 @@
+import { tokens } from '../theme';
 export const mockDataTeam = [
   {
     id: 1,
@@ -1278,4 +1279,14 @@ export const mockGeographyData = [
     id: "KOR",
     value: 171135,
   },
+];
+export default [
+  mockDataTeam,
+  mockDataContacts,
+  mockDataInvoices,
+  mockBarData,
+  mockLineData.mockLineData,
+  mockPieData,
+  mockGeographyData,
+  mockTransactions,
 ];
