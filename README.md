@@ -73,5 +73,5 @@ Make sure you have the following installed:
 If you like this project, please ⭐ the repository!
 
 ## Acknowledgement
-This project was created as a learning exercise, guided by a tutorial video. Many thanks to the creator for their valuable insights.
+This project was created as a learning exercise, guided by a tutorial video. Many thanks to the creator for their valuable insights.<br>
 [Watch the tutorial here! 🎥](https://www.youtube.com/watch?v=wYpCWwD1oz0&t=3s)
